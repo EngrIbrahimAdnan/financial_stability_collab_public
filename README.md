@@ -63,7 +63,8 @@ To access the full content of this project:
 
 ## Contact
 
-For inquiries and collaboration requests, please reach out via GitHub or connect with us on LinkedIn.
+For inquiries and collaboration requests, please reach out via GitHub or connect with us on LinkedIn or contact us at iaa2132@columbia.edu.
+
 
 <div align="center">
   <div style="display: flex; border: 2px solid green; justify-content: center;">
