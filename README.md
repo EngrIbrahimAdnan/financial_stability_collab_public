@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/51868f92-ea04-42ec-989c-70e95fbeef6e">
+</div>
+
 # Financial Stability Collaboration (Public)
 
 ## Overview
