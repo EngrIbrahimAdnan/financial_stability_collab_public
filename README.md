@@ -13,7 +13,6 @@ Welcome to the public repository of our project focused on constructing a Financ
 - **Submodule**: Links to the private repository containing all project files.
 - **BIS.zip**: The dataset release, available upon accessing the private repository.
 - **README.md**: This file, providing an overview and instructions.
-- **Presentation slides**: An in-depth slides for presentation on YouTube explaining our methodology, analysis, and findings.
 
 ## Project Highlights
 
