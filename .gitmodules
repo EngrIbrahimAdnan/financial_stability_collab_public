@@ -1,0 +1,4 @@
+[submodule "financial_stability_collab"]
+	path = financial_stability_collab
+	url = https://github.com/EngrIbrahimAdnan/financial_stability_collab
+	branch = main
