@@ -6,12 +6,11 @@
 
 ## Overview
 
-Welcome to the public repository of our project focused on constructing a Financial Stability Index (FSI) using data from the Bank for International Settlements (BIS). This repository contains a submodule pointing to our private repository "financial_stability_collab," where you'll find detailed documentation, Python scripts, and datasets.
+Welcome to the public repository of our project focused on constructing a Financial Stability Index (FSI) using data from the Bank for International Settlements (BIS). This repository contains a submodule pointing to our private repository "financial_stability_collab," where you'll find detailed documentation, Python scripts, releases, and datasets.
 
 ## Contents
 
 - **Submodule**: Links to the private repository containing all project files.
-- **BIS.zip**: The dataset release, available upon accessing the private repository.
 - **README.md**: This file, providing an overview and instructions.
 
 ## Project Highlights
