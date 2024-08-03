@@ -42,7 +42,7 @@ Our project is structured around the following key components:
 
 For a comprehensive overview, watch our video presentation on YouTube:
 
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/4ee018dc-b64d-45e7-8eb9-3992b24088a9)](https://www.youtube.com/watch?v=Vu8HX1l7SfQ)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/2aa74a1c-7d11-41cc-9d8a-fdc275b5b351)](https://www.youtube.com/watch?v=Vu8HX1l7SfQ)
 
 
 ## Collaboration
